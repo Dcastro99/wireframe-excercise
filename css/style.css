@@ -63,3 +63,17 @@ article section {
   height: 360px;
   overflow: auto;
 }
+
+article a:link, a:visited {
+  background-color: #575353;
+  color: white;
+  padding: 14px 25px;
+  text-align: center; 
+  text-decoration: none;
+  display: inline-block;
+}
+
+article a:hover, a:active {
+  background-color: rgb(233, 141, 107);
+  transition: 350ms;
+}
