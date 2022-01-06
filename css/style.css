@@ -17,7 +17,6 @@ nav {
   justify-content: space-between; 
   flex-wrap: nowrap;
   align-items: center; 
- 
 }
 
 ul{
@@ -29,7 +28,6 @@ ul{
 
 li{
   padding: 50px;
- 
 }
 
 li a{
@@ -54,7 +52,6 @@ h3{
   color: black;
   font-size: 25px;
   font-family:Poppins ;
-  
 }
 
 footer {
@@ -84,5 +81,4 @@ article a:link, a:visited {
 article a:hover, a:active {
   background-color: rgb(233, 141, 107);
   transition: 350ms;
-  
 }
