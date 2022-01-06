@@ -17,7 +17,6 @@ nav {
   justify-content: space-between; 
   flex-wrap: nowrap;
   align-items: center; 
- 
 }
 
 ul{
@@ -29,7 +28,6 @@ ul{
 
 li{
   padding: 50px;
- 
 }
 
 li a{
@@ -50,6 +48,12 @@ img {
   margin-bottom: 30px;
 }
 
+h3{
+  color: black;
+  font-size: 25px;
+  font-family:Poppins ;
+}
+
 footer {
   background-color: rgb(65, 64, 64);
   height: 50px;
@@ -60,17 +64,18 @@ article {
 }
 
 article section {
-  height: 360px;
+  height: 332px;
   overflow: auto;
 }
 
 article a:link, a:visited {
   background-color: #575353;
-  color: white;
+  color: lightgray;
   padding: 14px 25px;
   text-align: center; 
   text-decoration: none;
   display: inline-block;
+  border-radius: 10px;
 }
 
 article a:hover, a:active {
